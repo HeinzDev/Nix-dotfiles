@@ -19,7 +19,7 @@
 
 **Gnome**
 
-Desktop
+Desktop Environment:
 
 <p align="center"><img src="https://i.imgur.com/j1vg5os.png"></p>
 <p align="center"><img src="https://i.imgur.com/ADhQufb.png"></p>
@@ -61,6 +61,6 @@ $ ./install.sh
 or
 
 ```bash
-$ cd nix
+$ cd nix-dotfiles
 $ sudo nixos-rebuild switch --flake .#enzo
 ```
