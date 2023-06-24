@@ -7,13 +7,14 @@
 
 ### Aplicações:
 
-|                          |                 NixOS(Xorg)                  |
-|--------------------------|:--------------------------------------------:|
-| **Desktop Environment**  | [Gnome](https://www.gnome.org)               |
-| **Terminal Emulator**    | [Cool-Retro-Term](https://github.com/Swordfish90/cool-retro-term)           |
-| **Application Launcher** | [Rofi](https://github.com/davatorium/rofi)   |
-| **Shell**                | [Zsh](https://zsh.sourceforge.io)            |
-| **Text Editor**          | [Neovim](https://neovim.io)                  |
+|                          |             NixOS 23.05               |
+|--------------------------|:-------------------------------------:|
+| **Desktop Environment**  |   [Gnome](https://www.gnome.org)      |
+| **Terminal Emulator**    |   [Cool-Retro-Term](https://github.com/Swordfish90/cool-retro-term) |
+| **Display Server**       |   [Xorg](https://www.x.org/wiki/)     |
+| **Application Launcher** |   [Rofi](https://github.com/davatorium/rofi)  |
+| **Shell**                |   [Zsh](https://zsh.sourceforge.io)   |
+| **Text Editor**          |   [Neovim](https://neovim.io)         |
 
 ## **Gnome**
 
