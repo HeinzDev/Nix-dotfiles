@@ -1,9 +1,9 @@
 **English** | [Portuguese (PT-BR)](README.md)
 
-<p align="center"><img src="https://i.imgur.com/LzdSAxB.png" width=300px></p>
+<p align="center"><img src="https://i.imgur.com/X5zKxvp.png" width=300px></p>
 <h2 align="center">HeinzDev NixOS Dotfiles</h2>
 
-<p align="center"><img src="https://static.vecteezy.com/system/resources/previews/012/634/538/original/art-deco-outline-stroke-in-golden-color-for-classy-and-luxury-style-premium-vintage-line-art-design-element-free-png.png" width=300px></p>
+<p align="center"><img src="https://i.imgur.com/rqskqPg.png" width=500px></p>
 
 ### Apps:
 
