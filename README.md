@@ -17,7 +17,7 @@
 
 ## **Gnome**
 
-Desktop Environment:
+Ambiente Desktop:
 
 <p align="center"><img src="https://i.imgur.com/j1vg5os.png"></p>
 <p align="center"><img src="https://i.imgur.com/ADhQufb.png"></p>
