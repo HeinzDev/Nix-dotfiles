@@ -47,7 +47,7 @@ Ambiente Desktop:
 
 0. Baixe o projeto:
 ```bash
- $ git clone https://github.com/HeinzDev/nix-dotfiles.git || cd Nix
+ $ git clone https://github.com/HeinzDev/Nix-dotfiles.git || cd Nix
 ```
 
 1. Instale o projeto:
@@ -59,6 +59,6 @@ $ ./install.sh
 ou
 
 ```bash
-$ cd nix-dotfiles
+$ cd Nix-dotfiles
 $ sudo nixos-rebuild switch --flake .#enzo
 ```
