@@ -20,8 +20,8 @@
 
 Ambiente Desktop:
 
-<p align="center"><img src="https://i.imgur.com/j1vg5os.png"></p>
-<p align="center"><img src="https://i.imgur.com/ADhQufb.png"></p>
+<p align="center"><img src="https://i.imgur.com/6YcyoCA.png"></p>
+<p align="center"><img src="https://i.imgur.com/zJYPPIT.png"></p>
 
 ## Estrutura
 
