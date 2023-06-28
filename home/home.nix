@@ -11,6 +11,7 @@
 
   home.packages = with pkgs; [
     cool-retro-term
+    (opera.override { proprietaryCodecs = true; })
     neovim
     wget
     discord
